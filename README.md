@@ -72,4 +72,4 @@
   ```bash
       C:\Users\edwin\OneDrive\Desktop\New folder> python name_of_your_file.py
   ```
-- finally, you will get your output
+- finally, your output
